@@ -1,6 +1,6 @@
 # 🛡️ Aegis NetShield: AI Forensic & Mitigation Engine
 
-Aegis NetShield is an AI-powered Network Intrusion Detection & Automated Containment System utilizing an XGBoost classifier, Shannon port entropy heuristic engine, real-time bidirectional flow aggregator, and an interactive HTML5 defense radar dashboard.
+AI-Driven Forensic Systems for Real-Time Anomaly Detection and  Threat Mitigation in Cybersecurity Infrastructures
 
 ---
 
